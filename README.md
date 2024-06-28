@@ -1,11 +1,11 @@
-- Hi there, I'm Shrikant ! 👋
+um- Hi there, I'm Shrikant ! 👋
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, Power BI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 About Me
 
 💼 Aspiring Data Analyst
 🌱  Data Analytics Certification and IBM Data Visualization
-🎓 Ppost graduate in Marketing  Management
+🎓 post graduate in Marketing  Management
 
 Tools and Languages
 Excel
